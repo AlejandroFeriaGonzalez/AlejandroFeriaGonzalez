@@ -7,7 +7,6 @@ Mi blog: [alejandroferiagonzalez.github.io](https://alejandroferiagonzalez.githu
 
   <details><summary><h3> :open_file_folder: Destacado </h3></summary>
   <img src=https://github-readme-stats.vercel.app/api/pin/?username=AlejandroFeriaGonzalez&repo=apuntado_pygame&theme=tokyonight alt=repo />
-  <br/>
   <img src=https://github-readme-stats.vercel.app/api/pin/?username=AlejandroFeriaGonzalez&repo=pdf_estadistica&theme=tokyonight alt=repo />
   <img src=https://github-readme-stats.vercel.app/api/pin/?username=AlejandroFeriaGonzalez&repo=MiHorario-GUI&theme=tokyonight alt=repo />
 </details>
